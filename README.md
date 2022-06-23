@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
 <h3 align="center">I'm a python dev living in Argentina.</h3>
 
+Currently, I am working as a Help Desk and applying some knowledge of Python and databases in my day to day, mainly developing and maintaining scripts and ad hoc queries to different databases.
+
+I used and still use Python for different purposes, from script development, to engineering and data analysis (pandas, numpy, matplotlib and basic knowledge of Airflow), web scraping (scrapy, bs4, requests, selenium) and learning backend development with the framework Flask.
+
+Regarding databases, I have worked mainly with PostgreSQL and Hana DB, but also with SQL Server, Sybase and MySQL, to carry out queries, stored procedures and views, to be used within the ERP, in Excel files and, in to a lesser extent, reports in Crystal Reports, Jasper Reports and Power BI.
+
 <p align="left"> <a href="https://twitter.com/akalautaro" target="blank"><img src="https://img.shields.io/twitter/follow/akalautaro?logo=twitter&style=for-the-badge" alt="akalautaro" /></a> </p>
 
 - 🌱 I’m currently learning **Python for data engineering, and also backend development with Flask**
