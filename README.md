@@ -7,7 +7,7 @@ I used and still use Python for different purposes, from script development, to 
 
 Regarding databases, I have worked mainly with PostgreSQL and Hana DB, but also with SQL Server, Sybase and MySQL, to carry out queries, stored procedures and views, to be used within the ERP, in Excel files and, in to a lesser extent, reports in Crystal Reports, Jasper Reports and Power BI.
 
-- 🌱 I’m currently learning **Python for data engineering, and also backend development with Flask**
+- 🌱 I’m currently learning **Python for data engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
