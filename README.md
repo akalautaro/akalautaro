@@ -18,15 +18,3 @@ I'm a Data Engineer. I've mostly worked at consultancies, on data projects for c
 I started in technical support, working close to accounting, sales, and logistics, and began automating repetitive tasks with Python, SQL, and APIs. Today I'm at Blueprintdata, building end-to-end data stacks, semantic layers, and analytics agents for clients.
 
 🌎 **Languages:** Spanish (native) · English (professional) · Portuguese (limited)
-
-## Stack
-
-**Programming:** Python · SQL
-
-**Analytics Engineering:** dbt · MetricFlow · Data Modeling · Data Warehousing · ETL/ELT · Metabase
-
-**Orchestration & Ingestion:** Apache Airflow · Meltano · Singer taps · Docker · PySpark
-
-**Cloud & Platforms:** AWS · Azure · Databricks · GCP · Snowflake · Pulumi (IaC)
-
-**GenAI & Tools:** LLM agents · RAG / semantic-layer context · Git · Linux · CI/CD
